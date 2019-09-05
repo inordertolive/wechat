@@ -1,0 +1,12 @@
+<style>
+    *{
+        list-style:none;
+    }
+    .page-link{
+        border:0; margin:8; padding:8; font-size:8px;  /* savers */ float:left;
+        border:solid 1px blur; margin-right:2px; color:green;
+    }
+    a{
+        text-decoration:none;
+    }
+</style>
